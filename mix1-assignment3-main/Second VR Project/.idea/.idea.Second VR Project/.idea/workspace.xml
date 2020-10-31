@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3e04b6-2163-43e5-bbe1-1ba58de8d2c7" name="Default Changelist" comment="" />
+    <list default="true" id="7a3e04b6-2163-43e5-bbe1-1ba58de8d2c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Second VR Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Second VR Project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Second VR Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Second VR Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BLUE.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BLUE.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/RED.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/RED.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/HelloVR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/HelloVR.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/HelloVR_Profiles/CenterEyeAnchor Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/HelloVR_Profiles/CenterEyeAnchor Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CubeBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SaberScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SaberScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnerScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -14,13 +55,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CubeBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SaberScript.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jWUOZRxU8gkfnS0TOJVk7AQ54p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +108,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603919317192</updated>
       <workItem from="1603919350590" duration="2904000" />
-      <workItem from="1603974581235" duration="2612000" />
+      <workItem from="1603974581235" duration="3071000" />
+      <workItem from="1604161007327" duration="9990000" />
     </task>
     <servers />
   </component>
@@ -75,10 +118,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2010" y="-478" width="1720" height="840" key="VCS.FileHistoryDialog" timestamp="1604163138744">
+      <screen x="1920" y="-592" width="1920" height="1060" />
+    </state>
+    <state x="2010" y="-478" width="1720" height="840" key="VCS.FileHistoryDialog/1920.-592.1920.1060/0.0.1920.1040@1920.-592.1920.1060" timestamp="1604163138744" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1603919482040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
